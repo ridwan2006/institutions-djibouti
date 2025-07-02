@@ -72,7 +72,7 @@
                         <div class="stat-label">Institutions</div>
                     </div>
                     <div class="stat-card">
-                        <div class="stat-number">15</div>
+                        <div class="stat-number">23</div>
                         <div class="stat-label">Ministères</div>
                     </div>
                     <div class="stat-card">
